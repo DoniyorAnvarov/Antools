@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Poppins-ExtraLight';
+    src: url(../fonts/Poppins/Poppins-ExtraLight.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url(../fonts/Poppins/Poppins-Medium.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url(../fonts/Poppins/Poppins-Bold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
